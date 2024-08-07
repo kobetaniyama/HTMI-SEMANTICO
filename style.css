@@ -17,5 +17,17 @@ header, nav, footer{
     text-align: center;
     color: white;
 }
+.cabeca{
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+.menu{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.conteudo{
+    font-size: 20px;
+    margin-top: 20px;
+}
 
 
