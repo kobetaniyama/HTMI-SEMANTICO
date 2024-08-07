@@ -1,0 +1,21 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    margin: 0%;
+    padding: 10px;
+     background-color: #282c34;
+     min-height: 100vh;
+}
+header, nav, footer{
+    background-color: #FFA500;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+
